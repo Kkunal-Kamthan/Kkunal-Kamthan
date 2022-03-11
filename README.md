@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kkunal-Kamthan
 - 👀 I’m interested to pursue a career in latest technologies
 - 🌱 I have completed my graduation in BE Mechanical from Bharati Vidyapeeth College Of Engineering, Lavale, Pune
--  I Machine Learning And Artificial Intelligence(Symboisis Skill and Professional University) 
+-  I completed a CSR Training program in Machine Learning And Artificial Intelligence from Symboisis Skill and Professional University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kunalkpower@gmail.com
 
